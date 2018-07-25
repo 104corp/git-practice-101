@@ -11,6 +11,7 @@
 
   ```
   $ git branch -b <自己取一個分支名稱>
+  Hi, I am alex
   ```
 
 3. 修改 `docs/list.md` 內容並存檔
